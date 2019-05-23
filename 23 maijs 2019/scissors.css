@@ -1,0 +1,30 @@
+.number{        
+      background-color:lightblue;        
+      text-align: center;        
+      font-size: 90px;    
+    }    
+    .code{        
+      width:50%;        
+      height: 55%;        
+      float:left;        
+      font-size:161px;        
+      text-align: center;        
+      padding-top: 150px;        
+      border: 1px solid black;    
+    }    
+    .codeai{        
+      width:49%;        
+      height: 55%;        
+      float:left;        
+      font-size:161px;        
+      text-align: center;        
+      padding-top: 150px;        
+      background-color:lightblue;         
+      border: 1px solid black;            
+    }    
+    .codehand{        
+      text-align: center;        
+      font-size: 50px;        
+      height: 10%;        
+      padding-top: 200px;    
+    }    
